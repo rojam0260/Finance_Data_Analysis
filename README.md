@@ -9,13 +9,13 @@ The dashboard is designed to support decision-making through clear KPIs, interac
 Built to demonstrate analytical thinking and professional dashboard design for real-world business scenarios.    
 
 🎯 Key Features    
-  📈 KPI Cards: Revenue, Profit, Expenses   
-  📊 Visuals: Column Charts, Line Charts, Donut Charts, Category Analysis 
-  🧭 Page Navigation Buttons  
-  🔍 Slicers for Year, Month, Category 
-  🌐 Embedded External Link for additional resources 
-  🧼 Clean and modern Power BI layout 
-  👨‍💼 Portfolio-ready professional design    
+  📈 KPI Cards: Revenue, Profit, Expenses     
+  📊 Visuals: Column Charts, Line Charts, Donut Charts, Category Analysis        
+  🧭 Page Navigation Buttons        
+  🔍 Slicers for Year, Month, Category        
+  🌐 Embedded External Link for additional resources        
+  🧼 Clean and modern Power BI layout       
+  👨‍💼 Portfolio-ready professional design     
 
 🧰 Technologies Used    
   Power BI Desktop 
